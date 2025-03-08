@@ -3,7 +3,7 @@ package main
 
 import (
 	"fmt"
-	"kakio/GoStudy/Study/Start/ch1/lissajous"
+	"kakio/ch1/lissajous"
 	"log"
 	"net/http"
 	"strconv"
